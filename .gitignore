@@ -1,0 +1,9 @@
+.env
+*.env
+*service-account*.json
+credentials*.json
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
